@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(251, 223, 246);
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+.text{
+    color: black;
+    text-align: center;
+}
+
+#Viivi{
+    height: 10em;
+    width: 8em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact{
+    color: black;
+    text-align: center;
+}
+
+#linkedin{
+    height: 2em;
+    width: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#email{
+    height: 3em;
+    width: 3em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
